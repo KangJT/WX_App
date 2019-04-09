@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/counter/main",
+    "pages/search/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#34C25E",
+    "navigationBarTitleText": "享物说",
+    "navigationBarTextStyle": "white"
+  }
+  
+}
